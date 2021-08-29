@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "aiohttp_practise"
+version = "0.1.0"
+description = ""
+authors = ["GonnaFlyMethod <alexandergusakov@yahoo.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+aiohttp = "^3.7.4"
+aiohttp-jinja2 = "^1.5"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
