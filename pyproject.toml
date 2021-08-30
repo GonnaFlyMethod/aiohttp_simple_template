@@ -8,6 +8,8 @@ authors = ["GonnaFlyMethod <alexandergusakov@yahoo.com>"]
 python = "^3.8"
 aiohttp = "^3.7.4"
 aiohttp-jinja2 = "^1.5"
+uvloop = "^0.16.0"
+aioreloader = "^0.4.0"
 
 [tool.poetry.dev-dependencies]
 
